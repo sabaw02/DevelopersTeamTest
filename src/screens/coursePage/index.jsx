@@ -1,10 +1,10 @@
 import React from 'react'
 import Courses from '../../components/courses'
 
-const CoursePage = () => {
+const CoursesPage = () => {
   return (
     <div><Courses/></div>
   )
 }
 
-export default CoursePage
+export default CoursesPage
